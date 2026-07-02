@@ -1,14 +1,14 @@
 <div align="center">
-<img width="1200" height="475" alt="hanBoost Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  
+💻⚡ **hanBoost**
+
 </div>
 
 # hanBoost
 
-**hanBoost** waa app-kaaga cusub oo ka tirsan **Hanadora**, oo lagu dhisay AI Studio. Version-kan wuxuu ku socdaa magaca **hanZOZ**.
+**hanBoost** waa app-kaaga cusub oo ka tirsan **Hanadora**. Version-kan wuxuu ku socdaa magaca **hanZOZ**.
 
 Halkan waxaad ka helaysaa wax kasta oo aad u baahan tahay si aad app-ka loogu wado local-ka (computer-kaaga).
-
-Fiiri app-kaaga AI Studio: https://ai.studio/apps/15d136bf-2816-4b41-87dc-4f5dd269c6cf
 
 ## U Wadista Local-ka (Run Locally)
 
