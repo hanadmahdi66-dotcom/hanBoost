@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized gaming booster lightning bolt in neon electric cyan -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M56,20 L36,54 L52,54 L44,88 L72,44 L52,44 Z" />
+</vector>

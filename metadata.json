@@ -1,0 +1,6 @@
+{
+  "name": "hanBoost",
+  "description": "Premium game, FPS, and resolution performance booster for mobile gamers with real-time hardware monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
