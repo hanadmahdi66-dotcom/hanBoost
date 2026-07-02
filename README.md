@@ -17,7 +17,7 @@ waxan ugu tala galanya dadka ciyaara gameska si ay kor ugu qadan qaab ciyaroodko
 
 - **Magaca App-ka:** hanBoost
 - **Version:** hanZOZ
-- **Waxaa dhisay:** Hanadora
+- **Waxaa dhisay:** HanTeam
 
 ---
-*hanBoost — qeyb ka mid ah mashruucyada Hanadora.*
+*hanBoost — qeyb ka mid ah mashruucyada HanTeam.*
